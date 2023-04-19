@@ -64,8 +64,9 @@ pip install -r requirements.txt
 
 ## Team
 
-- [Vamsi Alla](https://github.com/krishnasoft002).
-- [Akshay Arjun Sonawane](https://github.com/GTK-ARJUN).
+- [Surya Jayant]
+- [Sagar Yerramsetti]
+- [Mannepalli Navaraja]
 
 
 ## YouTube Video
