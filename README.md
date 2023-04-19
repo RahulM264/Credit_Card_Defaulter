@@ -70,8 +70,7 @@ pip install -r requirements.txt
 
 ## YouTube Video
 
-- https://www.youtube.com/watch?v=fe6UbznGRLU
-- https://youtu.be/0GaytL89H60
+https://youtu.be/IYRM_dRejko
 
 
 ## Credits
